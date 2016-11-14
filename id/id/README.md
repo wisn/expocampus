@@ -1,6 +1,34 @@
 # Universitas di Indonesia
-Berikut ini daftar universitas di Indonesia berdasarkan abjad.
+Berikut ini adalah daftar universitas di Indonesia berdasarkan abjad yang sesuai dengan namanya dalam Bahasa Inggris.
 
- Bahasa Inggris | Bahasa Indonesia |
-|---------------|------------------|
-| Telkom University | [Universitas Telkom](telkom-university) |
+- A
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- [T](#t)
+- U
+- V
+- W
+- X
+- Y
+- Z
+
+## T
+ Bahasa Inggris | Bahasa Indonesia | Tipe |
+|---------------|------------------|------|
+| [Telkom University]((telkom-university)) | Universitas Telkom | Perguruan Tinggi Swasta |
