@@ -11,7 +11,24 @@
 | Program | D3, D4, S1, S2 |
 | Admisi | Nasional, Internasional |
 
-## Program D3
+## Admisi
+### Nasional
+Informasi admisi nasional berdasarkan data terbaru (jika ada) atau tahun sebelumnya.
+
+ Jalur Seleksi | Periode Pendaftaran |
+|--------------|---------------------|
+| Jalur Prestasi Akademik (JPA) | 19 Sep - 16 Des 2016 |
+| Ujian Tulis | - |
+| Jalur Prestasi Unggulan (JPU) | - |
+| Jalur Pasca Sarjana | Batch 1 (03 Okt 2016 - 02 Jan 2017) |
+
+Informasi selengkapnya dapat dilihat di [smb.telkomuniversity.ac.id](http://smb.telkomuniversity.ac.id).
+
+### Internasional
+Informasi selengkapnya dapat dilihat di [io.telkomuniversity.ac.id](http://io.telkomuniversity.ac.id/).
+
+## Program
+### Program D3
  Fakultas | Program Studi |
 |---------|-------|
 | Ilmu Terapan | D3 Komputerisasi Akuntansi |
@@ -21,12 +38,12 @@
 |              | D3 Teknik Informatika |
 |              | S1 Teknik Komputer |
 
-## Program D4
+### Program D4
  Fakultas | Program Studi |
 |---------|-------|
 | Ilmu Terapan | D4 Sistem Multimedia |
 
-## Program S1
+### Program S1
 Fakultas | Program Studi |
 |---------|-------|
 | Ekonomi Bisnis | S1 Akuntansi |
@@ -47,7 +64,7 @@ Fakultas | Program Studi |
 | Teknik Informatika | S1 Teknik Informatika |
 |                    | S1 Ilmu Komputasi |
 
-## Program S2
+### Program S2
  Fakultas | Program Studi |
 |---------|-------|
 | Komunikasi dan Bisnis | S2 Manajemen |
