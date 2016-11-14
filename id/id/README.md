@@ -31,4 +31,4 @@ Berikut ini adalah daftar universitas di Indonesia berdasarkan abjad yang sesuai
 ## T
  Bahasa Inggris | Bahasa Indonesia | Tipe |
 |---------------|------------------|------|
-| [Telkom University]((telkom-university)) | Universitas Telkom | Perguruan Tinggi Swasta |
+| [Telkom University](telkom-university) | Universitas Telkom | Perguruan Tinggi Swasta |
