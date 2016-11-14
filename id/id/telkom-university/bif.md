@@ -5,7 +5,7 @@ S1 Teknik Informatika di Universitas Telkom.
  Data | Informasi |
 |-----|-----------|
 | Program | S1 |
-| Fakultas | Informatika |
+| Fakultas | Teknik Informatika |
 | Akreditasi | A |
 |            | 0054/SK/BAN-PT/Akred/S/I/2016 |
 |            | Daluwarsa 29-01-2021 |
