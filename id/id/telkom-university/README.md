@@ -61,7 +61,7 @@ Fakultas | Program Studi |
 |                | S1 Teknik Elektro |
 |                | S1 Teknik Fisika |
 |                | S1 Teknik Telekomunikasi |
-| Teknik Informatika | S1 Teknik Informatika |
+| Teknik Informatika | [S1 Teknik Informatika](bif.md) |
 |                    | S1 Ilmu Komputasi |
 
 ### Program S2
